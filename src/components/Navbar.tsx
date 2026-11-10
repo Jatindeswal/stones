@@ -3,9 +3,9 @@ import { MessageCircle } from "lucide-react";
 import { SITE, whatsappLink } from "@/lib/site";
 
 const NAV_LINKS = [
-  { href: "#collection", label: "Collection" },
-  { href: "#process", label: "Process" },
-  { href: "#faq", label: "FAQ" },
+  { href: "/#collection", label: "Collection" },
+  { href: "/#process", label: "Process" },
+  { href: "/#faq", label: "FAQ" },
 ] as const;
 
 export function Navbar() {
@@ -41,12 +41,12 @@ export function Navbar() {
           <ul className="hidden items-center gap-6 md:flex">
             {NAV_LINKS.map((link) => (
               <li key={link.href}>
-                <a
+                <Link
                   href={link.href}
                   className="text-[11px] uppercase tracking-[0.22em] text-white/55 transition-colors hover:text-[#E5C158]"
                 >
                   {link.label}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>

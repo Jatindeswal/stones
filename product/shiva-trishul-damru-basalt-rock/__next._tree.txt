@@ -1,0 +1,7 @@
+:HL["/stones/_next/static/chunks/2l2z5iiyvxzx1.css","style"]
+:HL["/stones/_next/static/media/4bd950c905cec094-s.p.2cu9iw-l3ih8o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/stones/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"shiva-trishul-damru-basalt-rock","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"product","h":96,"c":"$Q2"}]]
+0:{"b":"HK03jlD5x3-9M69uF1CJP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
